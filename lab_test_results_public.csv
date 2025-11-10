@@ -1,0 +1,28 @@
+﻿Date,Test_Name,Result,Unit,Reference_Range,Status,Comment,Min_Reference,Max_Reference,Unit_Description,Recommended_Followup
+2025-08-12,Ferritin,28.9,ug/L,15-150,Normal,Iron stores are at a low-moderate level,15,150,Microgram/Liter,Iron-rich diet recommended
+2025-08-12,Glycosylated Hemoglobin (HbA1c),5.0,%,4.0-6.0,Normal,Long-term blood sugar average is good,4.0,6.0,Percent,Maintain current regimen
+2025-08-12,Total IgE,1.73,KU/L,0.1-100,Normal,Low allergy risk,0.1,100,KiloUnit/Liter,No follow-up needed
+2025-08-12,Insulin,9.42,mU/L,2.6-24.9,Normal,Insulin level is normal,2.6,24.9,MilliUnit/Liter,Maintain current regimen
+2025-08-12,Free T4,1.14,ng/dL,0.87-1.70,Normal,Thyroid function is normal,0.87,1.70,Nanogram/Deciliter,Routine check
+2025-08-12,Urobilinogen (Strip),Normal,mg/dL,Normal,Normal,Liver function is normal,,,Milligram/Deciliter,No follow-up needed
+2025-08-12,Protein (Strip),Negative,mg/dL,Negative,Normal,No protein leakage detected,,,Milligram/Deciliter,No follow-up needed
+2025-08-12,pH (Strip),6,-,5-9,Normal,pH is normal,5,9,pH value,No follow-up needed
+2025-08-12,Nitrite (Strip),Negative,-,Negative,Normal,No nitrite detected in urine,,,-,No follow-up needed
+2025-08-12,Leukocyte (Strip),Negative,Leu/uL,Negative,Normal,No leukocytes detected,,,Leukocyte/µL,No follow-up needed
+2025-08-12,Ketone (Strip),Negative,mg/dL,Negative,Normal,No ketosis,,,Milligram/Deciliter,No follow-up needed
+2025-08-12,Glucose (Strip),Negative,mg/dL,Negative,Normal,No glucose detected,,,Milligram/Deciliter,No follow-up needed
+2025-08-12,Erythrocyte (Strip),1+,-,Negative,High,Red blood cells detected in urine – follow-up recommended,,,-,Repeat urine test recommended
+2025-08-12,Specific Gravity (Strip),1.02,-,1.010-1.030,Normal,Urine specific gravity is normal,1.010,1.030,-,No follow-up needed
+2025-08-12,Bilirubin (Strip),Negative,mg/dL,Negative,Normal,No bile pigment detected,,,Milligram/Deciliter,No follow-up needed
+2025-08-12,Platelet,267,10^3/uL,150-450,Normal,Platelet count is normal,150,450,Thousand/µL,Routine check
+2025-08-12,Leukocyte,6.37,10^3/uL,5-10.6,Normal,White blood cell count is normal,5,10.6,Thousand/µL,Routine check
+2025-08-12,Hemoglobin,12.9,g/dL,12-15,Normal,No anemia detected,12,15,Gram/Deciliter,Routine check
+2025-08-12,Erythrocyte,4.55,10^6/uL,3.8-5.2,Normal,Red blood cell count is normal,3.8,5.2,Million/µL,Routine check
+2025-08-12,RDW-SD,39.3,fL,36.4-46.3,Normal,Red blood cell distribution width is normal,36.4,46.3,Femtoliter,Routine check
+2025-08-12,RDW,12.2,%,11.5-14.5,Normal,Red blood cell distribution ratio is normal,11.5,14.5,Percent,Routine check
+2025-08-12,PDW,11.7,fL,9.8-16.1,Normal,Platelet distribution width is normal,9.8,16.1,Femtoliter,Routine check
+2025-08-12,PCT,0.27,%,0.17-0.38,Normal,Platelet volume ratio is normal,0.17,0.38,Percent,Routine check
+2025-08-12,Neutrophil%,68.9,%,50-70,Normal,Neutrophil percentage is normal,50,70,Percent,Routine check
+2025-08-12,Monocyte%,6.1,%,2-11,Normal,Monocyte percentage is normal,2,11,Percent,Routine check
+2025-08-12,Lymphocyte%,23.1,%,18-42,Normal,Lymphocyte percentage is normal,18,42,Percent,Routine check
+2025-08-12,Hematocrit,40,%,35-49,Normal,Hematocrit value is normal,35,49,Percent,Routine check
