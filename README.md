@@ -72,18 +72,12 @@ This will:
 
 ## Upcoming feature
 
-1. Takes the file and user inputas prompt
+1. Takes the file and user input as prompt
 2. Extracts content chunks and embed it
 3. Stores to vector store
 4. Model Retrieves Relevant chunks and provides explanation
 
-### Fine-tune
-
-```bash
-python finetune.py
-```
-
-This will:
+### Fine-tuning
 
 1. Load the prepared dataset
 2. Load Unsloth phi-3-mini-4k-instruct-bnb-4bit model
